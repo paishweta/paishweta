@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://user-images.githubusercontent.com/47057365/153752494-39a8d021-d242-4d7a-9663-05ac2ee7efad.gif" alt="Let's make the world a better place" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/47057365/153760634-6e48f229-7773-4216-8934-41aa19775159.gif" alt="Let's make the world a better place" /></p>
  
 <h1 align="center">Hello there 👋, welcome to my hub!</h1>
 <h3 align="center">Hope you're well.</h3>
