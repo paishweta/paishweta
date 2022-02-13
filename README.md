@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools I want to explore further:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"><a href="https://www.sketch.com/" target="_blank"> </a>  <strong> + Many More </strong> </p>
 
+ <hr>
+ 
 <h3 align="center">👇Have a look at some of my work👇</h3>
 
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=100&lines=Arfah+Upade+here.;Thank+you+for+stopping+by!;Hope+to+meet+soon.+%F0%9F%98%89)](https://git.io/typing-svg)
