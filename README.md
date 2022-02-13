@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Languages and Tools I want to explore further:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"><a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="springboot" width="60" height="30"/> </a>  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="springboot" width="60" height="30"/> </a> <strong> + Many More </strong> </p>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"><a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="springboot" width="70" height="40"/> </a>  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="springboot" width="51" height="35"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="springboot" width="51" height="35"/> </a> <strong> + Many More </strong> </p>
 
  <hr>
  
