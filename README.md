@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://user-images.githubusercontent.com/56472876/127607189-60ed4a54-ebad-4bff-9e6c-397e5b8b288f.gif" alt="Let's make the world a better place" /></p>
+<p><img align="center" src="![Shweta Pai](https://user-images.githubusercontent.com/47057365/153752494-39a8d021-d242-4d7a-9663-05ac2ee7efad.gif)" alt="Let's make the world a better place" /></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ArfahUpade.ArfahUpade)
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ArfahUpade.ArfahUpade&color=00cf00) -->
