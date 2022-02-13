@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!--<img src="https://badges.pufler.dev/repos/ArfahUpade"/>
 <img src="https://badges.pufler.dev/commits/monthly/ArfahUpade" />-->
  
-<h1 align="center">Hi 👋, welcome to my hub!</h1>
-<h3 align="center">How's the weather at your end?</h3>
+<h1 align="center">Hello there 👋, welcome to my hub!</h1>
+<h3 align="center">Hope you're well.</h3>
 <hr>
 <br />
 <h3 align="center">Languages and Tools I've used:</h3>
