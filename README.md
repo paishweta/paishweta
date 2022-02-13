@@ -43,14 +43,8 @@ Here are some ideas to get you started:
 ---
 -->
 <hr />
-
-### A little joke for you: 😂
-<!-- Markdown -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="A joke was supposed to appear here. Looks like the server needed a break. 😋" />
-</p>
 <hr>
-<h3 align="center">👇 Have a look at some of my work 👇</h3>
+<h3 align="center">👇Have a look at some of my work👇</h3>
 
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=100&lines=Arfah+Upade+here.;Thank+you+for+stopping+by!;Hope+to+meet+soon.+%F0%9F%98%89)](https://git.io/typing-svg)
 -->
